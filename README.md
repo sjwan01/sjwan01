@@ -1,4 +1,4 @@
-## Welcome To My GitHub!
+## Welcome to My GitHub!
 
 My name is Shunji Wan, an incoming MS in Data Science student [@ Columbia](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) !
 
@@ -9,7 +9,7 @@ As a data enthusiast, I look forward to exchanging ideas and making progressive 
 Here's my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-shunji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunji-wan-a01305185/)
 
 
-## :hammer_and_wrench: Languages and Tools
+### Languages and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
