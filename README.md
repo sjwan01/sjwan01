@@ -1,4 +1,4 @@
-## 🍻 Welcome to My Github!
+## 🍻 Welcome To My Github!
 
 My name is Shunji Wan, an incoming MS in Data Science student [@ Columbia 👑](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) !
 
