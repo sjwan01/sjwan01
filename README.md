@@ -1,8 +1,8 @@
-## 🍻 Welcome To My Github!
+## 🍻 Welcome To My GitHub!
 
 My name is Shunji Wan, an incoming MS in Data Science student [@ Columbia 👑](https://datascience.columbia.edu/education/programs/m-s-in-data-science/) !
 
-📚 In my junior year of college [@ Vassar 🧙‍♂️](https://www.vassar.edu/math) , I switched my major from _PoliSci_ to _Stats_ out of curiousity about the world of data. Through this journey of statistical science, I've acquired and applied skills - ranging from data manipulation to machine learning - to solving real-life problems. This Github account serves as showcase for some of these projects - as well as a workshop for people to braistorm!
+📚 In my junior year of college [@ Vassar 🧙‍♂️](https://www.vassar.edu/math) , I switched my major from _PoliSci_ to _Stats_ out of curiousity about the world of data. Through this journey of statistical science, I've acquired and applied skills - ranging from data manipulation to machine learning - to solving real-life problems. This Github account serves as showcase for some of these projects - as well as a workshop for people to brainstorm!
 
 📊 As a data enthusiast, I look forward to exchanging ideas and making progressive impacts to the communities. Visit my repositories if you're interested. Also, feel free to connect and always up to any suggestions about project ideas or collaboration!
 
