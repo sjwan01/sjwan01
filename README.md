@@ -6,7 +6,7 @@ In my junior year at [__*@ Vassar College*__](https://www.vassar.edu/math) , I s
 
 As a data enthusiast, I look forward to exchanging ideas and making progressive impacts to the communities. Please feel free to visit my repositories if you're interested, and always open for connections and suggestions about project ideas or collaboration!
 
-Here's my LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-shunji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunji-wan-a01305185/)
+[![Linkedin Badge](https://img.shields.io/badge/-shunji-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shunji-wan-a01305185/)
 
 
 ### Languages and Tools
